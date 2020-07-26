@@ -1,1 +1,1 @@
-# cv_jquery_bootstrap
+# jquery

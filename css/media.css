@@ -1,0 +1,27 @@
+@media screen and (max-width:1200px) {}
+
+@media screen and (max-width:1000px) {}
+
+@media screen and (max-width:800px) {
+    .container header {
+        background-size: 100%;
+    }
+    .contenedor nav .datos {
+        width: 80%;
+    }
+}
+
+@media screen and (max-width:600px) {}
+
+@media screen and (max-width:400px) {
+    .container {
+        width: 100vh
+    }
+}
+
+@media screen and (max-width:250px) {}
+
+
+/* no soportado*/
+
+@media screen and (max-width:180px) {}
