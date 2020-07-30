@@ -1,0 +1,176 @@
+
+.ico {
+    width: 50px;
+    height: 50px;
+    margin-right: 12px;
+}
+.ico-ac-mini{
+    background-image: url(../img/ac_mini.png);
+    background-size: 150%;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: grayscale(100%);
+}
+.ico-vrf{
+    background-image: url(../img/v-plus-units.png);
+    background-size: 150%;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: grayscale(100%);
+}
+.ico-torre{
+    background-image: url(../img/torre.png);
+    background-size: 150%;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: grayscale(100%);
+}
+.ico-nae{
+    background-image: url(../img/NAE.png);
+    background-size: 150%;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: grayscale(100%);
+}
+.ico-carpe{
+    background-image: url(../img/botones/carpeta_tools.png);
+    background-size: 150%;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: grayscale(100%);
+}
+.ico-plan{
+    background-image: url(../img/GRAFCET-Ampelbeispiel.png);
+    background-size: 150%;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: grayscale(100%);
+}
+.ico-eje{
+    background-image: url(../img/llaveIng.png);
+    background-size: 150%;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: grayscale(100%);
+}
+.ico-ctrl{
+    background-image: url(../img/botones/iconoing.png);
+    background-size: 150%;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: grayscale(100%);
+}
+.ico-corr{
+    background-image: url(../img/icon.png);
+    background-size: 150%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.ico-travis{
+    background-image: url(../img/travis.png);
+    background-size: 150%;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: grayscale(100%);
+}
+.ico-nd{
+    background-image: url(../img/Node-js-Logo.png);
+    background-size: 120%;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: grayscale(100%);
+}
+.ico-dj{
+    background-image: url(../img/django-community-logo.png);
+    background-size: 120%;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: grayscale(100%);
+}
+.ico-vs{
+    background-image: url(../img/vs.png);
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: grayscale(100%);
+}
+.ico-vsc{
+    background-image: url(../img/vsc.png);
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: grayscale(100%);
+}
+.ico-and{
+    background-image: url(../img/and.png);
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: grayscale(100%);
+}
+.ico-expo{
+    background-image: url(../img/expo.png);
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: grayscale(100%);
+}
+.ico-dbian{
+    background-image: url(../img/debian.png);
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: grayscale(100%);
+}
+.ico-xampp{
+    background-image: url(../img/xampp.png);
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: grayscale(100%);
+}
+
+.img_res{
+    width: 100px;
+    height: 100px;
+}
+.min_img_res{
+    width: 50px;
+    height: 50px;
+}
+.bg-poli{
+    background-image: url(../img/unnamed.png);
+    background-size: 120%;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: grayscale(100%);
+}
+.bg-sena{
+    background-image: url(../img/logoSena.png);
+    background-size: 80%;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: grayscale(100%);
+}
+.bg-ietfdps{
+    margin-top: 5px;
+    background-image: url(../img/colegio.png);
+    background-size: 90%;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: grayscale(100%);
+}
+.bg-cisco{
+    background-image: url(../img/cisco.png);
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: grayscale(100%);
+}
+.bg-gooAc{
+    background-image: url(../img/header-activate-logo-lg.png);
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: grayscale(100%);
+}
