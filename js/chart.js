@@ -6,13 +6,13 @@ var myRadarChart = new Chart(ctxR, {
         labels: ["Filosofía del riesgo", "Manejo de herramientas", "Comunicación y relación",
          "Auto aprendizaje", "capacidad resolutiva", "Trabajo en equipo", "Objetividad"],
         datasets: [{
-                label: "Developer",
-                data: [75, 73, 73, 75, 77, 75, 67],
+                label: "",
+                data: [0, 0, 0, 0, 0, 0, 0],
                 backgroundColor: [
-                    'rgba(05, 10, 202, .2)',
+                    'rgba(0, 0, 0, .0)',
                 ],
                 borderColor: [
-                    'rgb(319, 136, 153)',
+                    'rgba(0, 0, 0, .0)',
                 ],
                 borderWidth: 2
             },
@@ -24,6 +24,17 @@ var myRadarChart = new Chart(ctxR, {
                 ],
                 borderColor: [
                     'rgb(119, 136, 153)',
+                ],
+                borderWidth: 2
+            },
+            {
+                label: "Developer",
+                data: [75, 73, 73, 75, 77, 75, 67],
+                backgroundColor: [
+                    'rgba(05, 10, 202, .2)',
+                ],
+                borderColor: [
+                    'rgb(319, 136, 153)',
                 ],
                 borderWidth: 2
             }
