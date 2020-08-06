@@ -17,19 +17,8 @@ var myRadarChart = new Chart(ctxR, {
                 borderWidth: 2
             },
             {
-                label: "ST Climatización",
-                data: [80, 75, 75, 77, 80, 77, 80],
-                backgroundColor: [
-                    'rgba(105, 10, 02, .2)',
-                ],
-                borderColor: [
-                    'rgb(119, 136, 153)',
-                ],
-                borderWidth: 2
-            },
-            {
-                label: "Developer",
-                data: [75, 73, 73, 75, 77, 75, 67],
+                label: "Skills",
+                data: [70, 65, 70, 75, 80, 70, 67],
                 backgroundColor: [
                     'rgba(05, 10, 202, .2)',
                 ],

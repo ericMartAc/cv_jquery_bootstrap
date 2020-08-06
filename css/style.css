@@ -135,3 +135,7 @@ footer{
     border-radius: 200px;
     border: 2px solid white;
 }
+#center{
+    margin-left: 12%;
+    text-align: center;
+}
